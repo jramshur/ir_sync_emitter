@@ -1,1 +1,1 @@
-[[images/photo.png]]
+[images/photo.png]
