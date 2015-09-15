@@ -10,19 +10,19 @@ It was designed to be used as a means of wirelessly synchronizing rack mounted e
 
 You can order the PCB from Oshpark.com [here](http://oshpark.com/shared_projects/bxmRX5iz).
 
-![](http://github.com/jramshur/ir_sync_emitter/raw/master/images/oshpcbtop.png)
+![](images/oshpcbtop.png)
 
-![](http://github.com/jramshur/ir_sync_emitter/raw/master/images/oshpcbbottom.png)
+![](images/oshpcbbottom.png)
 
 ## Schematic
-![](http://github.com/jramshur/ir_sync_emitter/raw/master/images/IR_Schematic.png)
+![](images/IR_Schematic.png)
 
 ## Photo
-![](http://github.com/jramshur/ir_sync_emitter/raw/master/images/photo.png)
-
-http://oshpark.com/shared_projects/bxmRX5iz
+![](images/photo.png)
 
 ## BOM
+
+comming soon ...
 
 | Part | Value | MF | Package | Description |
 |------|-------|----|---------|-------------|
